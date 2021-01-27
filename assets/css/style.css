@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* logo */
+
+.navbar-brand {
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+
+/* nav */
+
+.navbar-nav {
+    margin-bottom: 0;
+    width: 50%;
+    background-color: ;
+    border: 0;
+}
+
+.navbar-nav li {
+    padding-left: 30px;
+}
+
+.ml-auto, .mx-auto {
+    margin-left: auto!important;
+    float: left;
+}
+
+/* featured main image */
+
+.callout-container {
+    height: 100vh;
+    background-image: (assets/images/gym1.jpg) no-repeat bottom right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+
