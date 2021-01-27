@@ -34,7 +34,7 @@ body {
 
 .callout-container {
     height: 70vh;
-    background-image: url("/assets/images/gym1.jpg");
+    background-image: url("../images/gym1.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -62,7 +62,7 @@ body {
 
 .activities-container {
     height: 70vh;
-    background-image: url("/assets/images/gym1.jpg");
+    background-image: url("../images/gym1.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
