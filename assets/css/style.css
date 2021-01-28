@@ -16,16 +16,6 @@ body {
 .navbar-light .navbar-nav .nav-link {
     color: #006600;
 }
-
-
-
-
-
-.ml-auto, .mx-auto {
-    margin-left: auto!important;
-    float: left;
-}
-
 /* callout container */
 
 .container-fluid {
@@ -269,6 +259,10 @@ i.fas, i.fab, i.far {
     padding-bottom: 20px;
 }
 
+.activitie-one {
+    background-image: url("../images/activities-image1.jpg");
+    height: 30vh;
+}
 /* contact page */
 
 .contact-container {
