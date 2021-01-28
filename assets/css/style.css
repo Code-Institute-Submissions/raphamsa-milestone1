@@ -3,20 +3,19 @@ body {
     padding-top: 65px;
 }
 
+
+
 /* logo */
 
+
 .navbar-brand {
-    width: 100px;
+    width: 200px;
     height: 100px;
-    padding: 30px;
+    padding-top: 30px;
+    padding-left: 10px;
 }
 
 /* nav */
-
-.navbar-nav {
-    margin-bottom: 0;
-    width: 50%;
-}
 
 .navbar-light .navbar-nav .nav-link {
     color: #006600;
@@ -61,8 +60,8 @@ body {
     font-weight: bold;
     text-align: center;
     background-color: #000000;
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 /* divider container */
@@ -164,8 +163,8 @@ body {
 }
 
 .footer-social a {
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .footer-rights {
