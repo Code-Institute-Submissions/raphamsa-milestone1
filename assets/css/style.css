@@ -79,6 +79,7 @@ body {
     justify-content: center;
     position: relative;
     border-top: 10px solid #009900;
+    margin-top: 30px;
 }
 
 /* button */
@@ -228,7 +229,7 @@ i.fas, i.fab, i.far {
 
 .activities-container {
     height: 30vh;
-    background-image: url("../images/activities-image1.jpg");
+    background-image: url("../images/classes-image1.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -259,10 +260,6 @@ i.fas, i.fab, i.far {
     padding-bottom: 20px;
 }
 
-.activitie-one {
-    background-image: url("../images/activities-image1.jpg");
-    height: 30vh;
-}
 /* contact page */
 
 .contact-container {
