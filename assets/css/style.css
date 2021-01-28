@@ -17,9 +17,9 @@ body {
     color: #006600;
 }
 
-.navbar-nav li {
-    padding-left: ;
-}
+
+
+
 
 .ml-auto, .mx-auto {
     margin-left: auto!important;
@@ -57,6 +57,7 @@ body {
     background-color: #000000;
     padding-left: 10px;
     padding-right: 10px;
+    margin: 0 auto;
 }
 
 /* features container */
@@ -176,6 +177,7 @@ i.fas, i.fab, i.far {
     background-color: #000000;
     font-weight: bold;
     padding: 15px;
+    margin: 0 auto;
 }
 
 .gallery-content {
@@ -210,6 +212,7 @@ i.fas, i.fab, i.far {
     background-color: #000000;
     font-weight: bold;
     padding: 15px;
+    margin: 0 auto;
 }
 
 .timetable-content {
@@ -221,6 +224,14 @@ i.fas, i.fab, i.far {
 
 .timetable-content h4 {
     padding-bottom: 20px;
+}
+
+.timetable-hd h2 {
+    background-color: #009900;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    text-align: center;
 }
 
 /* activities page */
@@ -244,6 +255,7 @@ i.fas, i.fab, i.far {
     background-color: #000000;
     font-weight: bold;
     padding: 15px;
+    margin: 0 auto;
 }
 
 .activities-content {
@@ -279,6 +291,7 @@ i.fas, i.fab, i.far {
     background-color: #000000;
     font-weight: bold;
     padding: 15px;
+    margin: 0 auto;
 }
 
 .contact-content {
@@ -312,7 +325,7 @@ button[type="submit"] {
 
 @media(max-width: 281px) {
     .navbar-brand .logo {
-            width: 190px;
+        width: 190px;
     }
 }
 
