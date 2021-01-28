@@ -77,7 +77,19 @@ body {
     text-align: center;
 }
 
-
+.featureimg-container {
+    height: 20vh;
+    background-image: url("../images/gym2.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-top: 10px solid #009900;
+}
 
 /* button */
 
@@ -91,20 +103,6 @@ body {
     color: white;
     background-color: #009900;
     border-color: #009900;
-}
-
-.activities-container {
-    height: 20vh;
-    background-image: url("../images/gym2.jpg");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    border-top: 10px solid #009900;
 }
 
 /* Block divider */
@@ -163,5 +161,143 @@ i.fas, i.fab, i.far {
       color: #006600;
 }
 
+/* gallery container */
 
+.gallery-container {
+    height: 50vh;
+    background-image: url("../images/gallery-image1.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-top: 10px solid #009900;
+    padding-top: 55px;
+}
+
+.gallery-container h2 {
+    color: #ffffff;
+    background-color: #000000;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.gallery-content {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.gallery-content h4 {
+    padding-bottom: 20px;
+}
+
+/* timetable container */
+
+.timetable-container {
+    height: 50vh;
+    background-image: url("../images/timetable-image1.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-top: 10px solid #009900;
+    padding-top: 55px;
+}
+
+.timetable-container h2 {
+    color: #ffffff;
+    background-color: #000000;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.timetable-content {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.timetable-content h4 {
+    padding-bottom: 20px;
+}
+
+/* activities page */
+
+.activities-container {
+    height: 50vh;
+    background-image: url("../images/activities-image1.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-top: 10px solid #009900;
+    padding-top: 55px;
+}
+
+.activities-container h2 {
+    color: #ffffff;
+    background-color: #000000;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.activities-content {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.activities-content h4 {
+    padding-bottom: 20px;
+}
+
+/* contact page */
+
+.contact-container {
+    height: 50vh;
+    background-image: url("../images/contact-image1.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-top: 10px solid #009900;
+    padding-top: 55px;
+}
+
+.contact-container h2 {
+    color: #ffffff;
+    background-color: #000000;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.contact-content {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.contact-content h4 {
+    padding-bottom: 20px;
+}
 
