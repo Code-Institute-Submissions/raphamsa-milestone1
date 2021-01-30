@@ -182,6 +182,21 @@ i.fas, i.fab, i.far {
     padding-bottom: 20px;
 }
 
+
+.gallery-wrapper {
+	width: 80%;
+	column-count: 4;
+	margin: 0 auto;
+}
+
+.grid-item img {
+	width: 100%;
+	height: auto;
+	margin-bottom: 15px;
+}
+
+
+
 /* timetable container */
 
 .timetable-container {
@@ -324,10 +339,24 @@ button[type="submit"] {
     .navbar-toggler-icon {
         width: 6px;
     }
+
 }
 
 @media(min-width: 600px) {
     .form-center {
         width: 50%;
     }
+}
+
+
+@media only screen and (max-width: 768px) {
+	.gallery-wrapper {
+		column-count: 3;
+	}
+}
+
+@media only screen and (max-width: 450px) {
+	.gallery-wrapper {
+		column-count: 2;
+	}
 }
