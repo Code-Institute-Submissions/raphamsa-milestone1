@@ -27,7 +27,7 @@ body {
 }
 
 .callout-container {
-    height: 70vh;
+    height: 60vh;
     background-image: url("../images/gym1.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -90,6 +90,16 @@ body {
 
 .feature img {
     max-width: 100%;
+}
+
+.covid-alert {
+    background-color: #FFA200;
+    height: 24px;
+    text-align: center;
+} 
+
+.modal-title {
+    text-align: center;
 }
 
 /* button */
