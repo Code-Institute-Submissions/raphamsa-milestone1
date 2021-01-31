@@ -1,6 +1,11 @@
 body {
     font-family: 'Montserrat', sans-serif;
     padding-top: 97px;
+    color: #565656;
+}
+h4 {
+    color: #006600;
+    font-weight: bold;
 }
 
 /* logo */
@@ -88,8 +93,19 @@ body {
     margin-bottom: 30px;
 }
 
+.feature-subheading h3 {
+        font-weight: bold;
+}
+
 .feature img {
     max-width: 100%;
+}
+
+.featuretwo-content {
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .covid-alert {
@@ -269,6 +285,10 @@ i.fas, i.fab, i.far {
     padding-bottom: 20px;
 }
 
+.timetable-hd {
+margin-bottom: 40px;
+}
+
 .timetable-hd h2 {
     background-color: #009900;
     padding-top: 5px;
@@ -311,6 +331,7 @@ i.fas, i.fab, i.far {
 .activities-content h4 {
     padding-bottom: 20px;
 }
+
 
 .activities-gap img {
     width: 100%;
@@ -401,14 +422,3 @@ button[type="submit"] {
     }
 }
 
-@media only screen and (max-width: 768px) {
-	.container {
-		column-count: 1;
-	}
-}
-
-@media only screen and (max-width: 450px) {
-	.container {
-		column-count: 1;
-	}
-}
