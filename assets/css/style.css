@@ -94,15 +94,24 @@ body {
 
 .covid-alert {
     background-color: #006600;
-    height: 50px;
+    height: 22px;
     text-align: center;
     color: white;
 } 
 
+.covid-alert a {
+    color: orange;
+}
 .modal-title {
     text-align: center;
     color: #006600;
 }
+
+.modal {
+    width: 90%;
+    margin: 0 auto;
+}
+
 
 /* button */
 
@@ -360,10 +369,15 @@ button[type="submit"] {
     background-color: #009900;
 }
 
+.wrapper-map {
+    margin: 0 auto;
+}
+
 .wrapper-map iframe {
-    width: 90%;
     height: 250px;
     border: 0px;
+        width: 100%;
+
 }
 
 /* Media Queries */
