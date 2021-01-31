@@ -53,8 +53,7 @@ body {
 /* features container */
 
 .features-container {
-    padding: 50px;
-    width: 100%;
+    width: 90%;
 }
 
 .features-container h2 {
@@ -89,6 +88,9 @@ body {
     margin-bottom: 30px;
 }
 
+.feature img {
+    max-width: 100%;
+}
 
 /* button */
 
@@ -289,8 +291,9 @@ i.fas, i.fab, i.far {
     padding-bottom: 20px;
 }
 
-.activities-gap {
-    margin-bottom: 40px;
+.activities-gap img {
+    width: 100%;
+    padding-bottom: 40px;
 }
 
 /* contact page */
