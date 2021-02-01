@@ -16,7 +16,7 @@ h4 {
     padding-bottom: 15px;
 }
 
-/* nav */
+/* menu */
 
 .navbar-light .navbar-nav .nav-link {
     color: #006600;
@@ -128,7 +128,6 @@ h4 {
     margin: 0 auto;
 }
 
-
 /* button */
 
 .btn--cta {
@@ -169,7 +168,7 @@ h4 {
     margin: 10px;
 }
 
-.footer-info h5{
+.footer-info h5 {
     color: #006600;
     font-weight: bold;
     padding-bottom: 15px;
@@ -235,9 +234,8 @@ i.fas, i.fab, i.far {
     padding-bottom: 20px;
 }
 
-
 .gallery-wrapper {
-	width: 80%;
+	width: 100%;
 	column-count: 3;
 	margin: 0 auto;
 }
@@ -247,8 +245,6 @@ i.fas, i.fab, i.far {
 	height: auto;
 	margin-bottom: 15px;
 }
-
-
 
 /* timetable container */
 
@@ -332,10 +328,14 @@ margin-bottom: 40px;
     padding-bottom: 20px;
 }
 
-
 .activities-gap img {
     width: 100%;
     padding-bottom: 40px;
+}
+
+.my-video video {
+    width: 100%;
+    height: 250px;
 }
 
 /* contact page */
