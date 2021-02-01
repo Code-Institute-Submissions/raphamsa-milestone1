@@ -417,8 +417,8 @@ button[type="submit"] {
     }
 }
 
-@media(max-width: 600px) {
+@media(max-width: 653px) {
     .callout-two h1 {
-    font-size: 30px;
+    font-size: 28px;
     }
 }
