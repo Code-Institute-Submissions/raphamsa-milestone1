@@ -16,11 +16,11 @@ The Free Trial Pass button on the callout section gives the company an opportuni
 
 ## Wireframe
 
-[Desktop](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop)
+[Desktop](https://raphamsa.github.io/raphamsa-milestone1/wireframes/..)
 
-[Mobile](https://raphamsa.github.io/raphamsa-milestone1/wireframes/mobile)
+[Mobile](https://raphamsa.github.io/raphamsa-milestone1/wireframes/..)
 
-[Tablet](https://raphamsa.github.io/raphamsa-milestone1/wireframes/tablet)
+[Tablet](https://raphamsa.github.io/raphamsa-milestone1/wireframes/..)
 
 # Features
 
