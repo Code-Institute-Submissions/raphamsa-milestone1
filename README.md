@@ -97,7 +97,7 @@ Facebook, Instagram, Youtube
 
 ### Colors
 
-![Color Scheme](wireframes/color-scheme.jpg)
+![Color Scheme](assets/wireframes/color-scheme.jpg)
 
 # Technologies Used
 
