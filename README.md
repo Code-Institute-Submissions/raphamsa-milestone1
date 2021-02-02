@@ -16,11 +16,28 @@ The Free Trial Pass button on the callout section gives the company an opportuni
 
 ## Wireframe
 
-[Desktop](https://raphamsa.github.io/raphamsa-milestone1/wireframes/..)
 
-[Mobile](https://raphamsa.github.io/raphamsa-milestone1/wireframes/..)
+DESKTOP - 
+[Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home.png)
+[Timetable](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/timetable.png)
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/activities.png)
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/gallery.png)
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/contact.png)
 
-[Tablet](https://raphamsa.github.io/raphamsa-milestone1/wireframes/..)
+MOBILE -
+[Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home-2.png)
+[Timetable](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/timetable-2.png)
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/activities-2.png)
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/gallery-2.png)
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/contact-2.png)
+
+TABLET -
+[Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home-3.png)
+[Timetable](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/timetable-3.png)
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/activities-3.png)
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/gallery-3.png)
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/contact-3.png)
+
 
 # Features
 
