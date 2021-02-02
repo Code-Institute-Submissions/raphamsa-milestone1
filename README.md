@@ -1,45 +1,158 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome raphamsa,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# Dynamic Fitness Gym
 
-## Gitpod Reminders
+A mobile friendly and responsive website, designed and elaborated to attract new customers and to provide information related to classes, activities like boxing, climbing and bodybuilding. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+## Showcase
 
-A blue button should appear to click: *Make Public*,
+Live Site
 
-Another blue button should appear to click: *Open Browser*.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## UX
 
-A blue button should appear to click: *Make Public*,
+**Dynamic Fitness Gym** would like to have a website mainly to keep their customers informed of changes on classes timetables and to get new customers.
+When a user accesses the website, he will be able to check which classes are available on a weekly basis. The user will be able to contact the gym for further queries using the contact form. The gallery section containing images and video will show how the gym facilities look inside. The types of modalities can be found on both home page and activities page.
+The Free Trial Pass button on the callout section gives the company an opportunity to attract new customers to visit the gym facilities.
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Wireframe
 
-## Updates Since The Instructional Video
+Desktop 
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+Mobile
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+Tablet
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Features
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### Existing Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+Logo – It will bring the user to the Home Page when clicked.
+Navigation Bar – It allows the user to navigate through all pages. It collapses for mobile and tablet view.
+Modal – A link has been added below the navigation as a temporary alert.
+Featured Image – Gives an overview of the gym equipment and training floor.
+Timetable – Tables used to display a list of classes being offered at the Gym.
+Gallery – To showcase an auto-play video and photos using Fancybox. 
+Google Maps – Allow users to find where the gym is located on both Home and Contact Pages.
+Social Media Icons – To connect the users to Facebook, Instagram and Youtube.
+Contact Details – Added to every page displaying Company Address, Email and Telephone number clickable to make calls.
+Contact Form – Allow users to send messages select if they wish to receive a Free Trial Pass.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+### Features Left to Implement
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Develop a system so the user can Pay for fees & memberships;
+Member Area / Login;
+Packages & Pricing Pages;
 
---------
+### Fonts
 
-Happy coding!
+The typography chosen for this site: 
+font-family: 'Montserrat', sans-serif;
+font-weight: 400, 700;
+
+### Icons
+
+Facebook, Instagram, Youtube
+
+### Colors
+
+ADD IMAGE HERE
+
+
+## Technologies Used
+
+HTML5 – To develop the structure of the web page.
+
+CSS3 - To style the visual of all pages.
+
+Javascript – To give more functionality to buttons 
+
+Bootstrap v4.3.1 – Used to add grids, nav etc and to make the website responsive. 
+
+Jquery – DOM Manipulation.
+
+Gitpod – IDE for the project development.
+
+Github – To create repositories for the project.
+
+Git – Used for version control.
+
+Google Chrome Developer Tools – For website testing.
+
+Unsplash – To download high resolution images.
+
+Pexels – To download a video for the Gallery Page.
+
+Balsamiq - To create the project wireframes.
+
+Adobe Illustrator - Used to design a logo.
+
+Adobe Photoshop – Used to crop, resize and edit image filters.
+
+Fancybox – To create a gallery with controls.
+
+Google Maps – Copied Embedded link and added to the page.
+
+Fontawesome – Social Media Icons.
+
+Google Fonts – Used google fonts by adding a stylesheet link to the page.
+
+W3C Validation – Used to validate both HTML and CSS code.
+
+
+## Testing
+
+### Code Validation
+W3C HTML Validator - Passed successfully!
+Jigsaw CSS3 Validator – Passed successfully! 
+
+### Responsiveness
+The site has been extensively tested and is responsive on multiple devices:
+www.responsivedesignchecker.com
+Google Developer Tools
+
+### Browser Compatibility
+Desktop
+•	Google Chrome
+•	Mozilla Firefox
+•	Safari
+Mobile
+•	Google Chrome
+•	Safari
+
+## Deployment
+
+To deploy my project, I used GitHub Pages for the repository. To do this I took the following steps:
+1. I selected settings and scrolled down to the GitHub Pages section.
+2. Under the drop-down that labelled None and changed to to Master Branch in the Source section.
+3. The paged then refreshed and in the GitHub Pages section there is a link to the website.
+Link https://raphamsa.github.io/raphamsa-milestone1/
+
+To clone the project and edit it locally on your computer you must take the following steps:
+1. In the GitHub Repository you must click “Clone or Download”.
+2. Copy the URL which pops up underneath.
+3. Open you IDE of choice.
+4. Open Git Bash.
+5. Type `git clone and paste the URL` and hit Enter.
+Clone link https://github.com/raphamsa/raphamsa-milestone1.git
+
+
+## Credits
+
+### Content
+
+The content for this project was written by myself.
+
+### Media
+
+The images used for this project were downloaded from Unsplash.com
+The video used in the gallery were obtained from Pexels.com
+
+### Acknowledgements
+
+I received inspiration for this project from a friend who recently opened a Gym so I would like to support his business.
+Thanks to the CI Team and my Mentor Ignatius for his support through the project.
