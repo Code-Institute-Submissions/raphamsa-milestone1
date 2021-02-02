@@ -18,18 +18,28 @@ The Free Trial Pass button on the callout section gives the company an opportuni
 
 
 DESKTOP - 
-[Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home.png)
-[Timetable](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/timetable.png)
-[Activities](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/activities.png)
-[Gallery](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/gallery.png)
-[Contact](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/contact.png)
+
+[Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home.png/)
+
+[Timetable](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/timetable.png/)
+
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/activities.png/)
+
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/gallery.png/)
+
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/contact.png/)
 
 MOBILE -
-[Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home-2.png)
-[Timetable](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/timetable-2.png)
-[Activities](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/activities-2.png)
-[Gallery](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/gallery-2.png)
-[Contact](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/contact-2.png)
+
+[Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home-2.png/)
+
+[Timetable](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/timetable-2.png/)
+
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/activities-2.png/)
+
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/gallery-2.png/)
+
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/contact-2.png/)
 
 TABLET -
 [Home](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop/home-3.png)
