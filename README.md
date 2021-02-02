@@ -1,57 +1,65 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-
 # Dynamic Fitness Gym
 
 A mobile friendly and responsive website, designed and elaborated to attract new customers and to provide information related to classes, activities like boxing, climbing and bodybuilding. 
 
-
 ## Showcase
 
-Live Site
+[Visit Live Site Here!](https://raphamsa.github.io/raphamsa-milestone1/)
 
-
-## UX
+# UX
 
 **Dynamic Fitness Gym** would like to have a website mainly to keep their customers informed of changes on classes timetables and to get new customers.
-When a user accesses the website, he will be able to check which classes are available on a weekly basis. The user will be able to contact the gym for further queries using the contact form. The gallery section containing images and video will show how the gym facilities look inside. The types of modalities can be found on both home page and activities page.
-The Free Trial Pass button on the callout section gives the company an opportunity to attract new customers to visit the gym facilities.
+When a user accesses the website, he will be able to check which classes are available on a weekly basis. 
 
+The user will be able to contact the gym for further queries using the contact form. The gallery section containing images and video will show how the gym facilities look inside. The types of modalities can be found on both home page and activities page.
+The Free Trial Pass button on the callout section gives the company an opportunity to attract new customers to visit the gym facilities.
 
 ## Wireframe
 
-Desktop 
+[Desktop](https://raphamsa.github.io/raphamsa-milestone1/wireframes/desktop)
 
-Mobile
+[Mobile](https://raphamsa.github.io/raphamsa-milestone1/wireframes/mobile)
 
-Tablet
+[Tablet](https://raphamsa.github.io/raphamsa-milestone1/wireframes/tablet)
 
+# Features
 
-## Features
-
-### Existing Features
+## Existing Features
 
 Logo – It will bring the user to the Home Page when clicked.
+
 Navigation Bar – It allows the user to navigate through all pages. It collapses for mobile and tablet view.
+
 Modal – A link has been added below the navigation as a temporary alert.
+
 Featured Image – Gives an overview of the gym equipment and training floor.
+
 Timetable – Tables used to display a list of classes being offered at the Gym.
+
 Gallery – To showcase an auto-play video and photos using Fancybox. 
+
 Google Maps – Allow users to find where the gym is located on both Home and Contact Pages.
+
 Social Media Icons – To connect the users to Facebook, Instagram and Youtube.
+
 Contact Details – Added to every page displaying Company Address, Email and Telephone number clickable to make calls.
+
 Contact Form – Allow users to send messages select if they wish to receive a Free Trial Pass.
 
-### Features Left to Implement
+## Features Left to Implement
 
 Develop a system so the user can Pay for fees & memberships;
+
 Member Area / Login;
+
 Packages & Pricing Pages;
 
 ### Fonts
 
 The typography chosen for this site: 
+
 font-family: 'Montserrat', sans-serif;
+
 font-weight: 400, 700;
 
 ### Icons
@@ -60,10 +68,9 @@ Facebook, Instagram, Youtube
 
 ### Colors
 
-ADD IMAGE HERE
+![Color Scheme](wireframes/color-scheme.jpg)
 
-
-## Technologies Used
+# Technologies Used
 
 HTML5 – To develop the structure of the web page.
 
@@ -104,27 +111,33 @@ Google Fonts – Used google fonts by adding a stylesheet link to the page.
 W3C Validation – Used to validate both HTML and CSS code.
 
 
-## Testing
+# Testing
 
 ### Code Validation
+
 W3C HTML Validator - Passed successfully!
+
 Jigsaw CSS3 Validator – Passed successfully! 
 
 ### Responsiveness
 The site has been extensively tested and is responsive on multiple devices:
+
 www.responsivedesignchecker.com
+
 Google Developer Tools
 
 ### Browser Compatibility
+
 Desktop
 •	Google Chrome
 •	Mozilla Firefox
 •	Safari
+
 Mobile
 •	Google Chrome
 •	Safari
 
-## Deployment
+# Deployment
 
 To deploy my project, I used GitHub Pages for the repository. To do this I took the following steps:
 1. I selected settings and scrolled down to the GitHub Pages section.
@@ -141,7 +154,7 @@ To clone the project and edit it locally on your computer you must take the foll
 Clone link https://github.com/raphamsa/raphamsa-milestone1.git
 
 
-## Credits
+# Credits
 
 ### Content
 
@@ -150,9 +163,11 @@ The content for this project was written by myself.
 ### Media
 
 The images used for this project were downloaded from Unsplash.com
+
 The video used in the gallery were obtained from Pexels.com
 
 ### Acknowledgements
 
 I received inspiration for this project from a friend who recently opened a Gym so I would like to support his business.
+
 Thanks to the CI Team and my Mentor Ignatius for his support through the project.
