@@ -22,33 +22,33 @@ DESKTOP -
 .
 [Timetable](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/timetable.png)
 .
-[Activities](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/activities.png/)
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/activities.png)
 .
-[Gallery](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/gallery.png/)
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/gallery.png)
 .
-[Contact](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/contact.png/)
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/contact.png)
 
 MOBILE -
-[Home](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/home-2.png/)
+[Home](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/mobile/home-2.png)
 .
-[Timetable](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/timetable-2.png/)
+[Timetable](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/mobile/timetable-2.png)
 .
-[Activities](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/activities-2.png/)
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/mobile/activities-2.png)
 .
-[Gallery](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/gallery-2.png/)
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/mobile/gallery-2.png)
 .
-[Contact](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/contact-2.png/)
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/mobile/contact-2.png)
 
 TABLET -
-[Home](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/home-3.png)
+[Home](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/tablet/home-3.png)
 .
-[Timetable](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/timetable-3.png)
+[Timetable](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/tablet/timetable-3.png)
 .
-[Activities](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/activities-3.png)
+[Activities](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/tablet/activities-3.png)
 .
-[Gallery](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/gallery-3.png)
+[Gallery](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/tablet/gallery-3.png)
 .
-[Contact](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/desktop/contact-3.png)
+[Contact](https://raphamsa.github.io/raphamsa-milestone1/assets/wireframes/tablet/contact-3.png)
 
 
 # Features
